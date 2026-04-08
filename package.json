@@ -1,7 +1,8 @@
 {
-  "name": "healthjobs-backend",
+  "name": "healthjobs-vercel-backend",
   "version": "1.0.0",
   "type": "module",
+  "main": "api/server.js",
   "dependencies": {
     "express": "^4.19.2",
     "cors": "^2.8.5",
